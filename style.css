@@ -1,0 +1,353 @@
+@media screen and (min-width: 1080px) and (orientation:landscape) {
+    
+   
+    .wrap {
+        width: 1080px;
+        height: 880px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        margin: 50px auto;
+         font-size:40px; 
+        text-align: center;
+        line-height: 150px;
+        font-family: 'Karla', sans-serif;
+        
+    }  
+    .wrap .con1 {
+        border: 2px solid black;
+        width: 225px;
+        height: 225px;
+        float:left;
+        margin-right: 35px;
+          font-size:40px; 
+        
+    }
+    .wrap .con2 {
+         border: 2px solid black;
+        width: 225px;
+        height: 225px;
+        float:left;
+        margin-right: 35px;
+         font-size:40px; 
+    }
+      .wrap .con3 {
+          border: 2px solid black;
+        width: 225px;
+        height: 225px;
+        float:left;
+        margin-right: 35px;
+           font-size:40px; 
+    }
+         .wrap .con4 {
+         border: 2px solid black;
+        width: 225px;
+        height: 225px;
+        float:left;
+        margin-right: 35px;
+              font-size:40px; 
+    }
+    .wrap .con5 {
+        border: 2px solid black;
+        width: 1025px;
+        height: 250px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        float: left;
+        font-size:40px; 
+    }
+     .wrap1 .con6 {
+        border: 2px solid black;
+        width: 580px;
+        height: 225px;
+        float: left;
+        margin-right: 60px;
+           font-size:40px; 
+    }
+  
+    .wrap1 .con7 {
+        border: 2px solid black;
+        width: 385px;
+        height: 225px;
+        margin-bottom: 50px;
+        float:left;
+         
+         font-size:40px; 
+    }
+        .wrap2 .con8 {
+        border: 2px solid black;
+        width: 345px;
+        height: 225px;
+        float:left;
+        margin-right: 60px;
+              font-size:40px; 
+    }
+        .wrap2 .con9 {
+        border: 2px solid black;
+        width: 623px;
+        height: 225px;
+        float:left;
+        margin-right: 10px;
+             font-size:40px; 
+    }
+  
+    .wrap3 .con10 {
+        border: 2px solid black;
+        width: 275px;
+        height: 225px;
+        float:left;
+        margin-right: 100px;
+         margin-top: 60px;
+          font-size:40px; 
+        
+        
+    }
+    .wrap3 .con11 {
+        border: 2px solid black;
+        width: 275px;
+        height: 225px;
+        float:left;
+        margin-right: 100px;
+         margin-top: 60px;
+          font-size:40px; 
+         
+    }
+    .wrap3 .con12 {
+        border: 2px solid black;
+        width: 275px;
+        height: 225px;
+        float:left;
+        margin-right: 10px;
+         margin-top: 60px;
+          font-size:40px; 
+        
+         
+    }
+}
+@media screen and  (min-width: 575px) and (orientation:portrait)  {
+   
+  
+
+   
+    .wrap {
+        width: 320px;
+        height: 740px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+          font-size:40px; 
+         text-align: center;
+    }
+    .wrap div {
+        margin-bottom: 30px;
+    }
+    .wrap .con1 {
+        border: 2px solid black;
+        width: 516px;
+        height: 100px;
+         font-size:40px; 
+    }
+    .wrap .con2 {
+        border: 2px solid black;
+        width: 516px;
+        height: 100px;
+         font-size:40px;
+        margin-top: -100px;
+        
+    }
+    .wrap .con3 {
+       
+        display: none;
+    }
+    .wrap1 div {
+        border: 2px solid black;
+        width: 150px;
+        height: 150px;
+        float: left;
+          font-size:40px; 
+    }
+    .wrap1 .con5 {
+        
+        display: none;
+    }
+    .wrap1 .con7 {
+        
+        display: none;
+    }
+    
+    .wrap .con4 {
+    
+        display: none;
+    }
+    .wrap .con5 {
+     
+        display: none;
+    }
+     .wrap1 .con6 {
+        border: 2px solid black;
+        width: 580px;
+        height: 225px;
+        float: left;
+        margin-right: 60px;
+        display: none;
+           font-size:40px; 
+    }
+  
+    .wrap1 .con7 {
+        border: 2px solid black;
+        width: 385px;
+        height: 225px;
+        margin-bottom: 50px;
+        float:left;
+        display: none;
+          font-size:40px; 
+         
+    }
+        .wrap2 .con8 {
+        border: 2px solid black;
+        width: 345px;
+        height: 225px;
+        float:left;
+        margin-right: 60px;
+        display: none;
+             font-size:40px; 
+    }
+        .wrap2 .con9 {
+        border: 2px solid black;
+        width: 516px;
+        height: 100px;
+        float:left;
+        margin-right: 10px;
+              font-size:40px; 
+    }
+  
+    .wrap3 .con10 {
+        border: 2px solid black;
+        width: 200px;
+        height: 100px;
+        float:left;
+        margin-right: 10px;
+          font-size:40px; 
+
+    }
+    .wrap .con11 {
+  display: none;
+
+        
+         
+    }
+    .wrap3 .con12 {
+        border: 2px solid black;
+        width: 200px;
+        height: 100px;
+        float:left;
+        margin-left:318px;
+        margin-top: -134px;
+        font-size:40px; 
+        
+    }
+    
+}
+@media screen and (orientation:portrait), (min-width: 575px) and (max-width: 1079px) {
+    .wrap {
+        width: 320px;
+        height: 740px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+          font-size:40px; 
+         text-align: center;
+    }
+    .wrap div {
+        margin-bottom: 30px;
+    }
+    .wrap .con1 {
+        border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px; 
+    }
+    .wrap .con2 {
+        border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px;
+        margin-top: -135px;
+        margin-left: 400px;
+        
+    }
+    .wrap .con3 {
+        border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px; 
+        
+    }
+     .wrap .con4 {
+         border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px;
+        margin-top: -135px;
+        margin-left: 400px;
+        }
+     .wrap .con5 {
+     
+        display: none;
+    }
+
+    .wrap1 div {
+        border: 2px solid black;
+        width: 150px;
+        height: 150px;
+        float: left;
+          font-size:40px; 
+    }
+    .wrap1 .con6 {
+        border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px; 
+    }
+    .wrap1 .con7 {
+         border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px;
+        margin-top: -135px;
+        margin-left: 400px;
+        }
+     .wrap2 .con8 {
+        border: 2px solid black;
+        width: 720px;
+        height: 100px;
+         font-size:40px;
+         margin-top: 160px;
+    }
+     .wrap2 .con9 {
+     
+        display: none;
+    }
+    .wrap3 .con10 {
+        border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px; 
+    }
+     .wrap3 .con11 {
+        border: 2px solid black;
+        width: 320px;
+        height: 100px;
+         font-size:40px;
+        margin-top: -135px;
+        margin-left: 400px;
+    }
+     .wrap3 .con12 {
+        border: 2px solid black;
+        width: 720px;
+        height: 100px;
+         font-size:40px;
+        
+    }
+
+} 
+.fa-arrows-alt {
+    
+}
